@@ -7,6 +7,7 @@ package com.atguigu.demo.git;
 public class test {
     public static void main(String[] args) {
 
+        //这是一个分支测试
         System.out.println("你好");
         System.out.println("小胖胖");
     }
