@@ -9,5 +9,6 @@ public class test {
     //aefaefaef
         System.out.println("你好");
         //akdkawkeawd
+        System.out.println("小胖胖");
     }
 }
